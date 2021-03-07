@@ -1,6 +1,9 @@
 import { Injectable } from '@angular/core';
 import { of } from 'rxjs';
+<<<<<<< HEAD
 import{} from './../models/department'
+=======
+>>>>>>> develop
 
 @Injectable({
   providedIn: 'root'
