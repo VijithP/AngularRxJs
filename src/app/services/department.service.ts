@@ -11,7 +11,7 @@ export class DepartmentService {
 
   getDepartment()
   {
-    return of(1,2,3);
+    return of(1,2,3,4);
   }
 
 
